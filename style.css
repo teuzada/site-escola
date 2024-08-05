@@ -25,3 +25,20 @@
 .escola.imagem{
     width: 30%;
 }
+
+.escola{
+    backgound-image: linear-gradient(#424E61,#16FF8)
+    color:white;    
+    display:flex;
+    justify-content:center;
+    aling-items:center;
+    podding: 24px 0;
+}
+
+.escola-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
